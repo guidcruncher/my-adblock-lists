@@ -1,5 +1,5 @@
 logs.netflix.com
 
-seconds.samsungcloudsolution.com
+samsungcloudsolution.com
 samsungrm.net
 samsungelectronics.com
