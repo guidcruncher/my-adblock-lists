@@ -1,0 +1,9 @@
+b-api.facebook.com
+graph.facebook.com
+connect.facebook.net
+an.facebook.com
+ads.facebook.com
+ads-api.facebook.com
+pixel.facebook.com
+analytics.facebook.com
+business.facebook.com
