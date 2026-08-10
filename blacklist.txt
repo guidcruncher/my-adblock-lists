@@ -40,3 +40,16 @@ notify.bugsnap.com
 ad.doubleclick.net
 adservice.google.com
 
+d2zv5rkii46miq.cloudfront.net
+visitanalytics.userreport.com
+a02342.oxfordmail.co.uk
+securepubads.g.doubleclick.net
+cdn.adsafeprotected.com
+micro.rubiconproject.com
+experience.tinypass.com
+c.amazon-adsystem.com
+tpc.googlesyndication.com
+pagead2.googlesyndication.com
+www.googletagservices.com
+cdn.ampproject.org
+securepubads.g.doubleclick.net
